@@ -6,7 +6,9 @@ Interested in Computer Vision, Deep Learning, Machine Learning, Sensor Fusion an
 </p>
 
 <br />
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=saif-ashraf99&count_private=true&show_icons=true&theme=ayu-mirage&hide_title=true)
+
 <br />
 
 </div>
