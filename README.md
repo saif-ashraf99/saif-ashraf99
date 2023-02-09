@@ -45,12 +45,12 @@ class SaifAshraf():
 ### Machine Learning 
 - [Finding Donors for CharityML](https://github.com/saif-ashraf99/Charity-ML) - Case study
 ### Data Analysis
-- [Analyze-AB-Test-Results](https://github.com/saif-ashraf99/Analyze-AB-Test-Results)
+- [Analyze-AB-Test-Results](https://github.com/saif-ashraf99/Analyze-AB-Test-Results) - Case study
 - [No-Show-Appointments](https://github.com/saif-ashraf99/No-Show-Appointments) - Case study
 - [Bike Sharing](https://github.com/saif-ashraf99/Bike-sharing) - Case study
 <div align="center">
 
-# 🌐 Connect with me:
+# Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/saif-ashraf99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmarzaidi" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/saif_ashraf99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saif-ashraf99" height="30" width="40" /></a>
