@@ -31,7 +31,7 @@ class SaifAshraf():
 ### Autonomous Driving
 - [Estimate the state of multiple cars on a highway using Kalman filter](https://github.com/saif-ashraf99/Unscented-Kalman-Filter)
 - [Lidar Obstacle Detection](https://github.com/saif-ashraf99/Lidar-Obstacle-Detection)
-- [Controller for CARLA simulator](https://github.com/saif-ashraf99/Controller-for-CARLA-simulator)
+- [Controller for CARLA Simulator](https://github.com/saif-ashraf99/Controller-for-CARLA-simulator)
 - [Planning an Optimal Path](https://github.com/saif-ashraf99/Planning_an_Optimal_Path)
 ### Sensor Fusion
 - [LiDAR-Camera-Fusion-for-3D-Object-Detection](https://github.com/saif-ashraf99/LiDAR-Camera-Fusion-for-3D-Object-Detection)
