@@ -18,7 +18,7 @@ class SaifAshraf():
     
   def __init__(self):
     self.age = 21
-    self.location = "Nasr City, Cairo"
+    self.location = "Nasr City, Cairo, Egypt"
     self.learning = ["Machine Learning", "Computer Vision", "Deep Learning", "Sensor Fusion", "Autonomous Driving"]
 
   def __skills__(self):
@@ -29,10 +29,10 @@ class SaifAshraf():
 ## 👨🏻‍💻 Projects
 
 ### Autonomous Driving
-- [Estimate the state of multiple cars on a highway using kalman filter](https://github.com/saif-ashraf99/Unscented-Kalman-Filter)
-- [Lidar-Obstacle-Detection](https://github.com/saif-ashraf99/Lidar-Obstacle-Detection)
-- [Controller-for-CARLA-simulator](https://github.com/saif-ashraf99/Controller-for-CARLA-simulator)
-- [Planning_an_Optimal_Path](https://github.com/saif-ashraf99/Planning_an_Optimal_Path)
+- [Estimate the state of multiple cars on a highway using Kalman filter](https://github.com/saif-ashraf99/Unscented-Kalman-Filter)
+- [Lidar Obstacle Detection](https://github.com/saif-ashraf99/Lidar-Obstacle-Detection)
+- [Controller for CARLA simulator](https://github.com/saif-ashraf99/Controller-for-CARLA-simulator)
+- [Planning an Optimal Path](https://github.com/saif-ashraf99/Planning_an_Optimal_Path)
 ### Sensor Fusion
 - [LiDAR-Camera-Fusion-for-3D-Object-Detection](https://github.com/saif-ashraf99/LiDAR-Camera-Fusion-for-3D-Object-Detection)
 - [Radar_2D_CFAR](https://github.com/saif-ashraf99/Radar_2D_CFAR)
@@ -41,9 +41,9 @@ class SaifAshraf():
 - [Face-expression-recognition](https://github.com/saif-ashraf99/Face-expression-recognition)
 - [Multi-Class-Fruits-Classification](https://github.com/saif-ashraf99/Multi-Class-Fruits-Classification)
 - [MNIST Digit Recognizer](https://github.com/saif-ashraf99/Digit-Recognizer)
-- [Sobel-Filter-From-Scratch](https://github.com/saif-ashraf99/Sobel-Filter-From-Scratch)
+- [Sobel filter from scratch](https://github.com/saif-ashraf99/Sobel-Filter-From-Scratch)
 ### Machine Learning 
-- [Finding Donors for CharityML](https://github.com/saif-ashraf99/Charity-ML) - Case study
+- [Finding donors for charity](https://github.com/saif-ashraf99/Charity-ML) - Case study
 ### Data Analysis
 - [Analyze-AB-Test-Results](https://github.com/saif-ashraf99/Analyze-AB-Test-Results) - Case study
 - [No-Show-Appointments](https://github.com/saif-ashraf99/No-Show-Appointments) - Case study
