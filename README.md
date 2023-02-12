@@ -19,7 +19,7 @@ class SaifAshraf():
   def __init__(self):
     self.age = 21
     self.location = "Nasr City, Cairo, Egypt"
-    self.learning = ["Machine Learning", "Computer Vision", "Deep Learning", "Sensor Fusion", "Autonomous Driving"]
+    self.learning = ["Machine Learning", "Deep Learning", "Computer Vision", "Sensor Fusion", "Autonomous Driving"]
 
   def __skills__(self):
     self.languages = ["Python","C++", "C"]
