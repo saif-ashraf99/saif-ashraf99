@@ -1,8 +1,8 @@
 <div align="center">
 <p>
 <h2>Hi There! 👋 , I'm Saif Ashraf</h2>
-Studying Computer Sciecne & Artificial Intelligence at Helwan University (Senior Student).<br \>  
-Interested in Computer Vision, Deep Learning, Machine Learning, Sensor Fusion and Autonomous Driving.
+I graduated from the faculty of Computers and Artificial Intelligence at Helwan University.<br \>  
+Interested in Computer Vision, Deep Learning, Machine Learning, Sensor Fusion, and Autonomous Driving.
 </p>
 
 <br />
