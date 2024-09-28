@@ -1,8 +1,7 @@
 <div align="center">
 <p>
 <h2>Hi There! 👋 , I'm Saif Ashraf</h2>
-I graduated from the faculty of Computers and Artificial Intelligence at Helwan University.<br \>  
-Interested in Computer Vision, Deep Learning, Machine Learning, Sensor Fusion, and Autonomous Driving.
+Experienced Software Engineer with a strong foundation in computer vision, image processing, deep learning, and machine learning. Proficient in Python, C, and C++, with expertise in CNNs, GNNs, RNNs, and Transformers. Skilled in software engineering, analytical thinking, and data-related tasks, including data collection, annotation, management, and augmentation. Well-versed in Linux, Flask, SQL, Docker, AWS, APIs. Familiar with PyTorch, OpenCV, TensorFlow, Keras, NLTK, Spacy, Scikit-Learn, Numpy, and Pandas. My diverse skill set enables me to contribute effectively to projects requiring a combination of AI, and software engineering expertise.<br \>  
 </p>
 
 <br />
