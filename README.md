@@ -30,6 +30,9 @@ class SaifAshraf():
 
 ### Generative AI
 - [Advanced_Text_to_Image_Generation](https://github.com/saif-ashraf99/Advanced_Text_to_Image_Generation)
+- [Medical-Second-Opinion-Chatbot-with-Langchain](https://github.com/saif-ashraf99/Medical-Second-Opinion-Chatbot-with-Langchain)
+- [Coral_Guardians](https://github.com/saif-ashraf99/Coral_Guardians)
+- [PhantomDepth]([Coral_Guardians](https://github.com/saif-ashraf99/PhantomDepth))
 ### Autonomous Driving
 - [Estimate the state of multiple cars on a highway using Kalman filter](https://github.com/saif-ashraf99/Unscented-Kalman-Filter)
 - [Lidar Obstacle Detection](https://github.com/saif-ashraf99/Lidar-Obstacle-Detection)
