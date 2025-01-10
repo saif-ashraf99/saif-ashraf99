@@ -1,7 +1,7 @@
 <div align="center">
 <p>
 <h2>Hi There! 👋 , I'm Saif Ashraf</h2>
-Experienced Software Engineer with a strong foundation in computer vision, image processing, deep learning, and machine learning. Proficient in Python, C, and C++, with expertise in CNNs, GNNs, RNNs, and Transformers. Skilled in software engineering, analytical thinking, and data-related tasks, including data collection, annotation, management, and augmentation. Well-versed in Linux, Flask, SQL, Docker, AWS, APIs. Familiar with PyTorch, OpenCV, TensorFlow, Keras, NLTK, Spacy, Scikit-Learn, Numpy, and Pandas. My diverse skill set enables me to contribute effectively to projects requiring a combination of AI, and software engineering expertise.<br \>  
+Experienced AI Engineer specializing in computer vision, image processing, deep learning, and machine learning, with extensive expertise in sensor fusion, 3D reconstruction, and autonomous driving technologies. Proficient in generative AI and large language models (LLMs) such as GPTs, Ollama, Gemma, and Gemini. Strong competencies in neural network architectures like CNNs, GNNs, RNNs, GRUs, LSTMs, and Transformers. Extensive experience in data engineering, data analysis, data science, and MLOps. Skilled in web frameworks and tools such as Django, Odoo, Flask, and FastAPI. Proficient in SQL, Docker, AWS services, and Linux environments. Proficient in Python, C, and C++. Capable of delivering impactful contributions to AI and software engineering projects.<br \>  
 </p>
 
 <br />
@@ -33,6 +33,12 @@ class SaifAshraf():
 - [Advanced_Text_to_Image_Generation](https://github.com/saif-ashraf99/Advanced_Text_to_Image_Generation)
 - [PhantomDepth](https://github.com/saif-ashraf99/PhantomDepth)
 - [Coral_Guardians](https://github.com/saif-ashraf99/Coral_Guardians)
+### Computer Vision 
+- [Camera-based-2D-Feature-Tracking](https://github.com/saif-ashraf99/Camera-based-2D-Feature-Tracking)
+- [Face-expression-recognition](https://github.com/saif-ashraf99/Face-expression-recognition)
+- [Multi-Class-Fruits-Classification](https://github.com/saif-ashraf99/Multi-Class-Fruits-Classification)
+- [MNIST Digit Recognizer](https://github.com/saif-ashraf99/Digit-Recognizer)
+- [Sobel filter from scratch](https://github.com/saif-ashraf99/Sobel-Filter-From-Scratch)
 ### Autonomous Driving
 - [Estimate the state of multiple cars on a highway using Kalman filter](https://github.com/saif-ashraf99/Unscented-Kalman-Filter)
 - [Lidar Obstacle Detection](https://github.com/saif-ashraf99/Lidar-Obstacle-Detection)
@@ -41,12 +47,6 @@ class SaifAshraf():
 ### Sensor Fusion
 - [LiDAR-Camera-Fusion-for-3D-Object-Detection](https://github.com/saif-ashraf99/LiDAR-Camera-Fusion-for-3D-Object-Detection)
 - [Radar_2D_CFAR](https://github.com/saif-ashraf99/Radar_2D_CFAR)
-### Computer Vision 
-- [Camera-based-2D-Feature-Tracking](https://github.com/saif-ashraf99/Camera-based-2D-Feature-Tracking)
-- [Face-expression-recognition](https://github.com/saif-ashraf99/Face-expression-recognition)
-- [Multi-Class-Fruits-Classification](https://github.com/saif-ashraf99/Multi-Class-Fruits-Classification)
-- [MNIST Digit Recognizer](https://github.com/saif-ashraf99/Digit-Recognizer)
-- [Sobel filter from scratch](https://github.com/saif-ashraf99/Sobel-Filter-From-Scratch)
 ### Machine Learning 
 - [Finding donors for charity](https://github.com/saif-ashraf99/Charity-ML) - Case study
 ### Data Analysis
